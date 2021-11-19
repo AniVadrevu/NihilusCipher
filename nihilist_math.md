@@ -1,7 +1,7 @@
 ## Mathematical Analysis
 
 ### How many possible keys or codes could there be? 
-* 
+* Up to 110 keys possible
 
 ### How would you attempt to decode this message if you didn't have a key? 
 * 
