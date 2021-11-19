@@ -1,3 +1,4 @@
-# NihilistCipher
+# Nihilist Cipher
 * [Computer Code](CC.md)
-* [Final analysis](Fanalysis.md)
+* [Final Analysis](Fanalysis.md)
+* [Mathematical Analysis](nihilist_math.md)
