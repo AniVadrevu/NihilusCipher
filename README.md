@@ -1,1 +1,1 @@
-# NihilusCipher
+# NihilistCipher
