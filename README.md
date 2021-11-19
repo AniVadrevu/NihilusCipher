@@ -3,5 +3,5 @@
 * [Final Analysis](Fanalysis.md)
 * [Mathematical Analysis](nihilist_math.md)
 * [Historical analysis](History.md)
-* [Mechanical Analysis](nihilist_math.md)
+* [Mechanical Analysis](Mechanics.md)
 
